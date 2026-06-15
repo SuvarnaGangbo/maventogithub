@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<<<<<<< HEAD
 <project name="githubmaven" xmlns="http://maven.apache.org/DECORATION/1.8.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/DECORATION/1.8.0 http://maven.apache.org/xsd/decoration-1.8.0.xsd">
   <bannerLeft>
     <name>githubmaven</name>
+=======
+<project name="mavennewproject21" xmlns="http://maven.apache.org/DECORATION/1.8.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/DECORATION/1.8.0 http://maven.apache.org/xsd/decoration-1.8.0.xsd">
+  <bannerLeft>
+    <name>mavennewproject21</name>
+>>>>>>> f54526acdde0a90bed973b9f96a5b042cc55be79
     <src>https://maven.apache.org/images/apache-maven-project.png</src>
     <href>https://www.apache.org/</href>
   </bannerLeft>
